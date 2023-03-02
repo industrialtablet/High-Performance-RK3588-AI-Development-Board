@@ -1,5 +1,6 @@
 # High-Performance-RK3588-AI-Development-Board
-https://github.com/industrialtablet/RK3588-Development-Board
+
+
 
 ## High Performance RK3588 AI Development Board
 
@@ -58,3 +59,32 @@ HYY H-3588 features an original main SoC and provides a wealth of development re
 ## Provide perfect technical data for efficient secondary development
 
 HYY Technology Co.,Ltd. offer comprehensive technical information, including base board reference design materials, supporting source code, technical documentation, API interfaces, and SDK development tools. This makes secondary development more accessible, convenient, and efficient, helping customers quickly build independent and customizable products that are independent and controllable.
+
+
+
+## Get More technical Support
+
+###### RK3588 Development Board
+
+\- [RK3588 Development Board](https://github.com/industrialtablet/RK3588-Development-Board)
+
+###### ota upgrade tools(otaStar) and server
+
+\- [RK3566/RK3568/RK3588 Android OTA upgrade tools and server](https://github.com/tablet-pc/otastar)
+
+###### How Qt5.14.2 cross-compile
+
+\- [RK3588 Qt5.14.2 cross-compile for Ubuntu and Debian Linux OS](https://github.com/pengyixing/qt-everywhere-src-5.14.2-cross-compile-for-RK3566-RK3568-RK3588)
+
+Build Videorecorder Bundle use Networkoptix Client on HYY H-3588 Tablet
+
+\- [Build Videorecorder Bundle use Networkoptix Client](https://github.com/industrialtablet/Build-Videorecorder-Bundle-use-Networkoptix-Client-on-HYY-RK3566-Tablet)
+
+
+
+# Contacts
+- Website: www.we-signage.com
+- https://we-signage.en.made-in-china.com/
+- E-mail: dennis@we-signage.com
+- MP/Whatsapp/Wechat: + 86 13349909990
+- Skype: solled686
