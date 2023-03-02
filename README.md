@@ -1,5 +1,5 @@
 # High-Performance-RK3588-AI-Development-Board
-
+https://github.com/industrialtablet/RK3588-Development-Board
 
 ## High Performance RK3588 AI Development Board
 
